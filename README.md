@@ -1,5 +1,5 @@
 # practice-webgl
-WebGLをGitHub Pagesへデプロイしてみる
+WebGLを使ってUnityプロジェクトをビルドし、GitHub Pagesへデプロイしてみる
 
 ## URL
 
