@@ -3,4 +3,4 @@ WebGLを使ってUnityプロジェクトをビルドし、GitHub Pagesへデプ�
 
 ## URL
 
-https://oioigohan.github.io/practice-webgl
+https://oioigohan.github.io/practice-webgl/
